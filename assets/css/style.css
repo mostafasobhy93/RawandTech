@@ -245,8 +245,8 @@ header nav {
     min-height: 100px;
 }
 header nav .logo img {
-    width: 100px;
-	height: 95px;
+    width: 12.5rem;
+	height: 5.9rem;
 	object-fit: contain;
 	-o-object-fit: contain;
 }
@@ -1124,8 +1124,8 @@ footer .footer-bottom .footer-social .social-list li a:hover {
         order: 2;
     }
     header nav .logo img {
-        width: 70px;
-        height: 65px;
+        width: 9rem;
+        height: 4rem;
     }
     header nav .links-list {
         display: none;
