@@ -836,10 +836,7 @@ footer .footer-content {
 }
 
 footer .footer-logo img {
-    width: 130px;
-	height: 125px;
-	object-fit: contain;
-	-o-object-fit: contain;
+    width: 11rem;
     margin-bottom: 20px;
 }
 
@@ -1002,6 +999,9 @@ footer .footer-bottom .footer-social .social-list li a:hover {
     height: 2.5rem;
     text-align: center;
     line-height: 2.5rem;
+}
+.contact-section .contact-info p {
+    flex: 1;
 }
 .contact-section .social-list li a {
 	background-color: #3143ef;
