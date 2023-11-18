@@ -46,10 +46,10 @@ a:focus {
     background-color: #0d092c;
 }
 .theme-color {
-    color: #3143ef !important;
+    color: #0408ED !important;
 }
 .text-blue {
-    color: #3143ef;
+    color: #0408ED;
 }
 .fw-500 {
     font-weight: 500;
@@ -79,8 +79,8 @@ a:focus {
 /** main btn **/
 .main-btn {
     display: inline-block;
-	background-color: #3143ef;
-    border: 1px solid #3143ef;
+	background-color: #0408ED;
+    border: 1px solid #0408ED;
     text-align: center;
     border-radius: 3px;
     color: #ffffff;
@@ -92,15 +92,15 @@ a:focus {
 }
 .main-btn.white {
     background: #fff;
-    border: 1px solid #3143ef;
-    color: #3143ef;
+    border: 1px solid #0408ED;
+    color: #0408ED;
 }
 .main-btn:hover {
     background-color: transparent;
-    color: #3143ef;
+    color: #0408ED;
 }
 .main-btn.white:hover {
-    background-color: #3143ef;
+    background-color: #0408ED;
     color: #fff;
 }
 
@@ -133,7 +133,7 @@ a:focus {
     color: #777;
 }
 .section-title span {
-	color: #3143ef;
+	color: #0408ED;
 	font-size: 1.5rem;
 }
 .dropdown .droplist {
@@ -211,7 +211,7 @@ a:focus {
 }
 .header-top .contact-area i {
     font-size: 1.2rem;
-    color: #3143ef;
+    color: #0408ED;
 }
 .header-top .contact-area a span {
     color: #081b3a;
@@ -222,13 +222,13 @@ a:focus {
     font-weight: 500;
 }
 .header-top .contact-area a:hover span {
-    color: #3143ef;
+    color: #0408ED;
 }
 
 /*** Header ***/
 header {
 	position: relative;
-    background: #3143ef;
+    background: #0408ED;
     z-index: 9999;
 }
 header nav {
@@ -307,7 +307,7 @@ header nav .links-list > ul .list-item img {
 }
 header nav .links-list > ul .list-item .link.active-link,
 header nav .links-list > ul .list-item .link:hover {
-/*    color: #3143ef;*/
+/*    color: #0408ED;*/
 }
 header nav .links-list > ul .list-item .link.active-link {
 	font-weight: bold;
@@ -349,13 +349,13 @@ header nav .links-list > ul .list-item li a {
     transition: all .3s;
 }
 header nav .links-list > ul .list-item li a:hover {
-    color: #3143ef;
+    color: #0408ED;
 }
 header.sticky {
     position: fixed;
     top: 0;
     left: 0;
-    background-color: #3143ef;
+    background-color: #0408ED;
     -webkit-animation-name: stickyheader;
     animation-name: stickyheader;
     -webkit-animation-duration: 0.5s;
@@ -505,7 +505,7 @@ header nav .links-list > ul .list-item:hover .drop-list {
     z-index: 9;
 }
 .main-slider .carousel-btn-block .carousel-btn:hover {
-	background-color: #3143ef;
+	background-color: #0408ED;
 }
 .main-slider .carousel-btn-block .carousel-btn.right-btn {
     position: absolute;
@@ -548,7 +548,7 @@ header nav .links-list > ul .list-item:hover .drop-list {
     line-height: 3.6rem;
     text-align: center;
     display: inline-block;
-    background-color: #3143ef;
+    background-color: #0408ED;
 }
 .about-section .agency-block .icon-box i.fa-plane {
     display: inline-block;
@@ -598,7 +598,7 @@ header nav .links-list > ul .list-item:hover .drop-list {
     overflow: hidden;
 }
 .post .post-desc h4 a:hover {
-    color: #3143ef
+    color: #0408ED
 }
 .post-meta ul li {
     font-weight: normal;
@@ -609,13 +609,13 @@ header nav .links-list > ul .list-item:hover .drop-list {
 }
 .post-meta ul li.tag {
     margin-right: 1.5rem;
-    color: #3143ef;
+    color: #0408ED;
 }
 .post-meta ul li.date {
     font-size: .85rem;
 }
 .post-meta ul li i {
-    color: #3143ef;
+    color: #0408ED;
 }
 .post-title p {
     display: -webkit-box;
@@ -646,7 +646,7 @@ header nav .links-list > ul .list-item:hover .drop-list {
     text-transform: capitalize;
     font-weight: 600;
     letter-spacing: 0.2px;
-    color: #3143ef;
+    color: #0408ED;
 }
 .team-member .team-description h5 a:hover {
     color: #fd5b03
@@ -663,7 +663,7 @@ header nav .links-list > ul .list-item:hover .drop-list {
     -webkit-transition: .5s all ease;
     -o-transition: .5s all ease;
     transition: .5s all ease;
-    background: #3143ef;
+    background: #0408ED;
 }
 .team-member:hover .team-social-icon {
     -webkit-transform: translateX(0);
@@ -725,7 +725,7 @@ header nav .links-list > ul .list-item:hover .drop-list {
     transition: all 0.3s;
 }
 .services-section .services-single .services-content-wrap .link-with-icon:hover {
-    color: #3143ef;
+    color: #0408ED;
 }
 .services-section .services-single .services-content-wrap .link-with-icon:hover i {
     margin-left: .5rem;
@@ -980,7 +980,7 @@ footer .footer-bottom .footer-social .social-list li a:hover {
     transition: all 0.3s ease-in-out;
     font-size: 1.4rem;
     color: #ffffff;
-    background: #3143ef;
+    background: #0408ED;
     cursor: pointer;
     display: none;
 }
@@ -992,8 +992,8 @@ footer .footer-bottom .footer-social .social-list li a:hover {
 	contact
 ***/
 .contact-section .icon {
-	color: #3143ef;
-	border: 1px solid #3143ef;
+	color: #0408ED;
+	border: 1px solid #0408ED;
     border-radius: 50%;
     width: 2.5rem;
     height: 2.5rem;
@@ -1004,7 +1004,7 @@ footer .footer-bottom .footer-social .social-list li a:hover {
     flex: 1;
 }
 .contact-section .social-list li a {
-	background-color: #3143ef;
+	background-color: #0408ED;
     width: 2.5rem;
     height: 2.5rem;
     display: block;
@@ -1050,7 +1050,7 @@ footer .footer-bottom .footer-social .social-list li a:hover {
     height: 2.5rem;
     line-height: 2.5rem;
     font-size: 0.9rem;
-    background: #3143ef;
+    background: #0408ED;
     border-radius: 50%;
     text-align: center;
     color: #fff;

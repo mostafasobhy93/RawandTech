@@ -38,9 +38,7 @@ $(document).ready(function () {
         margin: 0,
         dots: false,
         nav: true,
-//        animateOut: "slideOutDown",
         animateOut: "fadeOut",
-//        animateIn: "fadeIn",
         active: true,
         smartSpeed: 1000,
         autoplay: true,
@@ -61,29 +59,6 @@ $(document).ready(function () {
         $(".main-slider .banner-slides").trigger("prev.owl.carousel");
     });
     
-//    hotels slider
-    $(".hotels-slider .uslides").owlCarousel({
-        loop: true,
-        items: 4,
-        dots: false,
-        nav: false,
-        active: true,
-        margin: 15,
-        smartSpeed: 800,
-        autoplay: true,
-        autoplayTimeout: 5000,
-        responsive : {
-            0 : {
-                items: 1,
-            },
-            768 : {
-                items: 2,
-            },
-            992 : {
-                items: 4,
-            }
-        }
-    });
     
 });
 
